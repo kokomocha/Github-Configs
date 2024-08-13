@@ -55,8 +55,8 @@ Let’s connect and build something amazing together!
 ## GitHub Stats
 
 <div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 20px;">
-    <img src="https://github-contributor-stats.vercel.app/api?username=kokomocha&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="500" height="300">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokomocha&layout=compact&langs_count=10&theme=radical" alt="Dev Languages" width="400" height="300">
+    <img src="https://github-contributor-stats.vercel.app/api?username=kokomocha&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="400" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokomocha&layout=compact&langs_count=10&theme=radical" alt="Dev Languages" width="300" height="200">
 </div>
 
 <!-- ## Top Visited Repositories:
@@ -80,7 +80,7 @@ Let’s connect and build something amazing together!
 
 ## Your Developer Fortune Cookie for the visit 🥠
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Fortune Cookie" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Fortune Cookie" width="400" height="150"/>
 </div>
 
 <hr>
