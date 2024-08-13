@@ -1,7 +1,6 @@
 ![License](https://img.shields.io/github/license/KOKOMOCHA/Github-Configs?style=flat)
-![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20views&query=%24.views&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fkokomocha)
 
-# Summary
+[![Profile Views](https://visitcount.itsvg.in/api?id=kokomocha&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### 👋 Hi there, I'm Komal! 
 
@@ -55,7 +54,7 @@ Let’s connect and build something amazing together!
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 80px;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 50px;">
     <img src="https://github-contributor-stats.vercel.app/api?username=kokomocha&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="500" height="300">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokomocha&layout=compact&langs_count=10&theme=radical" alt="Dev Languages" width="400" height="300">
 </div>
