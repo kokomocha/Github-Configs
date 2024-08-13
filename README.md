@@ -13,7 +13,7 @@ A MechE-turned 🔄 Data Scientist with a knack for uncovering hidden patterns �
 
 Let’s connect and build something amazing together! 
 
-## Proficiencies:
+## Proficiencies
 
  <p align="center">
     <img title="Python" alt="Python" img src="https://cdn.svgporn.com/logos/python.svg" width="40" style="vertical-align:down; margin:4px">
@@ -76,9 +76,14 @@ Let’s connect and build something amazing together!
     <p style="margin: 10px 0 0 0; font-size: 16px; color: #e4e4e4;">This repository focuses on ... and includes features such as ...</p>
 </div> -->
 
-<hr>
 
-## Your Fortune Cookie for today:
+
+## Your Developer Fortune Cookie for the visit 🥠
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Fortune Cookie" />
+</div>
+
+<hr>
 
 <p align="center">
     <a target="_blank" href="https://www.linkedin.com/in/komal-pardeshi-514683166/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
