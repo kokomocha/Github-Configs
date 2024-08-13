@@ -54,7 +54,7 @@ Let’s connect and build something amazing together!
 
 ## GitHub Stats
 
-<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 50px;">
+<div style="display: flex; justify-content: flex-start; align-items: flex-start; gap: 20px;">
     <img src="https://github-contributor-stats.vercel.app/api?username=kokomocha&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" width="500" height="300">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kokomocha&layout=compact&langs_count=10&theme=radical" alt="Dev Languages" width="400" height="300">
 </div>
@@ -75,3 +75,12 @@ Let’s connect and build something amazing together!
     <a href="https://github.com/YOUR_GITHUB_USERNAME/REPO_3" style="font-size: 24px; font-weight: bold; color: #ff0054; text-decoration: none;">REPO_3</a>
     <p style="margin: 10px 0 0 0; font-size: 16px; color: #e4e4e4;">This repository focuses on ... and includes features such as ...</p>
 </div> -->
+
+<hr>
+
+## Your Fortune Cookie for today:
+
+<p align="center">
+    <a target="_blank" href="https://www.linkedin.com/in/komal-pardeshi-514683166/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+    <a target="_blank" href="mailto:pardeshi.komal31@outlook.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>    
